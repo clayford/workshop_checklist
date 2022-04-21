@@ -13,4 +13,6 @@
 - UVA Guest Wi-Fi instructions
 - Thumb drive
 - Gather up any example texts
-
+- Slow down and pause
+- Observe without judgment
+- Try to smile
