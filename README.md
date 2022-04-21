@@ -16,3 +16,4 @@
 - Slow down and pause
 - Observe without judgment
 - Try to smile
+- Avoid the "um...so...ok" loop
