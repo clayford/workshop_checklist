@@ -10,6 +10,7 @@
 - Reading glasses
 - Setup RStudio appearance
 - Silence phone
+- Close Outlook and Slack
 - UVA Guest Wi-Fi instructions
 - Thumb drive
 - Gather up any example texts
