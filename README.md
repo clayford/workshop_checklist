@@ -9,6 +9,7 @@
 - Wireless mouse
 - Reading glasses
 - Setup RStudio appearance
+- Make Backup Co-Host in Zoom
 - Silence phone
 - Close Outlook and Slack
 - UVA Guest Wi-Fi instructions
