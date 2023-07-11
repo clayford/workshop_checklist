@@ -12,7 +12,6 @@
 - Make Backup Co-Host in Zoom
 - Silence phone
 - Close Outlook and Slack
-- UVA Guest Wi-Fi instructions
 - Thumb drive
 - Gather up any example texts
 - Slow down and pause
