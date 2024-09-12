@@ -1,5 +1,6 @@
 # Workshop Checkist
 
+- Check for late registrants who missed the workshop instructions email
 - Print off registration list
 - Pen for registration checklist
 - Post link to workshop materials on web site
